@@ -36,6 +36,7 @@ Develop an interviewer dashboard showing candidate scores, question performance 
 Identify general areas where candidates tend to excel or perform poorly and help RAC adapt training or support materials accordingly.
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/2f5d2808-1bc7-42af-8711-03eba7255924)
 
 
 ## Use Cases
@@ -43,6 +44,18 @@ Identify general areas where candidates tend to excel or perform poorly and help
 
 ## Technology Stack
 
+HTML/CSS
+Javascript
+Vue.js
+Bootstrap
+Mapbox
+Node.js
+python
+MySQL
+AWS
 
 ## Dependencies
 
+Mapping service-2 to 5 seconds
+Data Collection-5 to 15 minutes
+budget-$50,000 to $150,000
