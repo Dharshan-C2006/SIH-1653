@@ -40,22 +40,23 @@ Identify general areas where candidates tend to excel or perform poorly and help
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/9995bfcd-ce79-4f84-b208-31654c420352)
 
 
 ## Technology Stack
 
-HTML/CSS
-Javascript
-Vue.js
-Bootstrap
-Mapbox
-Node.js
-python
-MySQL
-AWS
+* HTML/CSS
+* Javascript
+* Vue.js
+* Bootstrap
+* Mapbox
+* Node.js
+* python
+* MySQL
+* AWS
 
 ## Dependencies
 
-Mapping service-2 to 5 seconds
-Data Collection-5 to 15 minutes
-budget-$50,000 to $150,000
+* Mapping service-2 to 5 seconds
+* Data Collection-5 to 15 minutes
+* budget-$50,000 to $150,000
